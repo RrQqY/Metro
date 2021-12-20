@@ -2,7 +2,7 @@
 
 ### 全图
 
-![image-20211220200903958](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211220200903958.png)
+![image-20211220200903958](https://github.com/RrQqSsYy/Metro/blob/Hangzhou-Metro-Imgs/%E5%85%A8%E5%9B%BE.png)
 
 ![image-20211220200933174](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211220200933174.png)
 
@@ -22,7 +22,7 @@
 
 ##### 三江汇
 
-![image-20211220210725386](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211220210725386.png)
+![image-20211220210725386](https://github.com/RrQqSsYy/Metro/blob/Hangzhou-Metro-Imgs/%E4%B8%89%E6%B1%9F%E6%B1%87.png)
 
 ##### 老城西+城北
 
