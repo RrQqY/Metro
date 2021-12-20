@@ -2,7 +2,7 @@
 
 ### 全图
 
-![image-20211220200903958](https://github.com/RrQqSsYy/Metro/blob/Hangzhou-Metro-Imgs/%E5%85%A8%E5%9B%BE.png)
+![](https://github.com/RrQqSsYy/Metro/blob/Hangzhou-Metro-Imgs/%E5%85%A8%E5%9B%BE.png)
 
 ![image-20211220200933174](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211220200933174.png)
 
